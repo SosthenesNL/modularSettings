@@ -1,0 +1,76 @@
+{
+    "FloorTypes": [
+        {
+            "floorType": "RVSANTISLIPR13",
+            "productClass": "proplus"
+        }
+    ],
+    "FinishTypes": [
+        {
+            "finishType": "STEEL",
+            "productClass": "standard"
+        },
+        {
+            "finishType": "STEELPET55",
+            "productClass": "proplus"
+        },
+        {
+            "finishType": "RVS304ROUNDBRUSH",
+            "productClass": "proplus"
+        },
+        {
+            "finishType": "RVS304LINEN",
+            "productClass": "proplus"
+        },
+        {
+            "finishType": "RVS304COLLEDROLLED",
+            "productClass": "proplus"
+        },
+        {
+            "finishType": "RVS304LINEBRUSH",
+            "productClass": "proplus"
+        },
+        {
+            "finishType": "RVS304DESIGN5WL",
+            "productClass": "proplus"
+        },
+        {
+            "finishType": "RVS316ROUNDBRUSH",
+            "productClass": "proplus"
+        }
+    ],
+    "HingeTypes": [
+        {
+            "hingeType": "Chrome",
+            "productClass": "pro"
+        }
+    ],
+    "DoorHandleTypes": [
+        {
+            "doorHandleType": "Euro2000",
+            "productClass": "pro"
+        },
+        {
+            "doorHandleType": "Euro2016",
+            "productClass": "pro"
+        },
+        {
+            "doorHandleType": "None",
+            "productClass": "pro"
+        }
+
+    ],
+    "proWallThickness": [140],
+    "proPlusWallThickness": [],
+    "innerwallsProductClass": "pro",
+    "proURL": "",
+    "proPlusURL": "",
+    "standardCellHeight": [2100, 2400],
+    "minSideLength": 1200,
+    "maxOneSideLength": 3300,
+    "standardDoorHeights": [1985],
+    "standardDoorWidths": [620, 900],
+    "standardDeliveryWeeks": 2,
+    "proDeliveryWeeks": 5,
+    "proPlusDeliveryWeeks": 8
+}
