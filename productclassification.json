@@ -70,7 +70,7 @@
     "maxOneSideLength": 3300,
     "standardDoorHeights": [1985],
     "standardDoorWidths": [620, 900],
-    "standardDeliveryWeeks": 2,
+    "standardDeliveryWeeks": 3,
     "proDeliveryWeeks": 5,
     "proPlusDeliveryWeeks": 8
 }
