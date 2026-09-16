@@ -66,7 +66,7 @@
     "proURL": "",
     "proPlusURL": "",
     "standardCellHeight": [2100, 2400],
-    "minSideLength": 1200,
+    "minSideLength": 1500,
     "maxOneSideLength": 3300,
     "standardDoorHeights": [1985],
     "standardDoorWidths": [620, 900],
